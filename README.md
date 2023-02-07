@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 :woman_technologist: I'm Nidhi. I'm a Frontend developer
 - :round_pushpin: diving deep into Svelte, React
 - ✨ Skills: HTML, CSS, JavaScript , React, Tailwind, Svelte, REST API,SQL
-- 🕵 I'm looking for Frontend Development opportunities. 
+- 🕵 Currently looking for Frontend Development opportunities.
 - ⚡ Fun fact: I have a masters degree in neurophysiotherapy. I geek out about neurology.
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/nidhi-kala-5bab8a19/) / [Twitter @nidhicodes](https://twitter.com/nidhicodes)
