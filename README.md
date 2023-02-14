@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-:woman_technologist: I'm Nidhi. I'm a Frontend developer
+:woman_technologist: I'm Nidhi, a Frontend developer.
 - :round_pushpin: diving deep into Svelte, React
 - ✨ Skills: HTML, CSS, JavaScript , React, Tailwind, Svelte, REST API,SQL
 - 🕵 Currently looking for Frontend Development opportunities.
