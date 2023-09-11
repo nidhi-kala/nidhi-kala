@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 -->
 :woman_technologist: I'm Nidhi, Software developer and a lifelong learner!
-- :round_pushpin: diving deep into Svelte, Python and GraphQL
-- ✨ Skills: HTML, CSS, JavaScript , React, Tailwind, Svelte,SQL
+- :round_pushpin: expanding skills in Go
+- ✨ Skills: Python, Django, React, Tailwind, Svelte, SQL, Git
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/nidhi-kala-5bab8a19/) / [Twitter @nidhicodes](https://twitter.com/nidhicodes)
