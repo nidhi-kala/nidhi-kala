@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 
 -->
-:woman_technologist: I'm Nidhi, Software developer and a lifelong learner!
+:woman_technologist: I'm Nidhi, Software developer
 - ✨ Skills: Ruby on Rails, React, Tailwind, Svelte, SQL, Git
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/nidhi-kala-5bab8a19/) / [Twitter @nidhicodes](https://twitter.com/nidhicodes)
